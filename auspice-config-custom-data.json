@@ -1,7 +1,7 @@
 {
   "colorings": [
     {
-      "key": "own_data",
+      "key": "costum_data",
       "title": "own data",
       "type": "categorical",
       "legend": [
