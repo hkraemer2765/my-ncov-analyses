@@ -15,6 +15,6 @@
     }
   ],
   "display_defaults": {
-    "color_by": "own_data"
+    "color_by": "costum_data"
   }
 }
